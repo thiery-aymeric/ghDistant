@@ -1,4 +1,1 @@
-Algo HelloWorld { utiliser HELLO_WORLD couleur_texte = BLEU fond = VERT }
-test hook
-modification locale
-modification github
+Algo HelloWorld { utiliser HELLO_WORLD couleur_texte = BLEU fond = CYAN largeur = 1200 date = OUI }
