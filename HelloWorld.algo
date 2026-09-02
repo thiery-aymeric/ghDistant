@@ -1,1 +1,1 @@
-Algo HelloWorld { utiliser HELLO_WORLD fond = JAUNE }
+Algo HelloWorld { utiliser HELLO_WORLD couleur_texte = BLEU fond = VERT }
