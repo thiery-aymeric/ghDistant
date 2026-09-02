@@ -1,1 +1,2 @@
 Algo HelloWorld { utiliser HELLO_WORLD couleur_texte = BLEU fond = CYAN largeur = 1200 date = OUI }
+Algo HelloWorld { utiliser HELLO_WORLD couleur_texte = BLEU fond = CYAN largeur = 900 }
