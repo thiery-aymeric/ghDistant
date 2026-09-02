@@ -1,0 +1,15 @@
+#!/bin/bash
+
+read -p "Creer le fichier de suivi ? (y/[n]) " yn < /dev/tty
+
+case $yn in
+    [Yy]* )
+        mkdir -p suivi
+        echo "commit verifie le $(date)" > suivi/commitInfo.txt
+        git add suivi/commitInfo.txt
+        ;;
+    * )
+        ;;
+esac
+
+exit 0
