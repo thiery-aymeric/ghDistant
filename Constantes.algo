@@ -1,1 +1,1 @@
-Constantes { constante HELLO_WORLD = "Hello world" }
+Constantes { constante HELLO_WORLD = "Hello world v2" constante WINDOW_SIZE = "400x400" }
